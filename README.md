@@ -30,4 +30,4 @@
 
 # Tutorials and Guides
 Visit my Raspberry Pi site for more information :
-[http://www.raspberrypi-spy.co.uk/](http://www.raspberrypi-spy.co.uk/)
+[https://www.raspberrypi-spy.co.uk/](https://www.raspberrypi-spy.co.uk/)
